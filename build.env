@@ -1,0 +1,2 @@
+GOPATH=$(go env GOPATH)
+PATH=$PATH:$GOPATH/bin

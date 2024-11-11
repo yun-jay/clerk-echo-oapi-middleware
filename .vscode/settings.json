@@ -1,0 +1,6 @@
+{
+  "go.toolsEnvVars": {
+    "GOPATH": "${env:GOPATH}",
+    "PATH": "${env:PATH}:${env:GOPATH}/bin"
+  }
+}
