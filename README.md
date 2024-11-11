@@ -42,5 +42,5 @@ go generate ./...
 ### 5. Run the Server
 
 ```bash
-go run main.go
+go run ./cmd/server/main.go
 ```
